@@ -1,0 +1,6 @@
+{
+    "CONNECTION_STRING": "mongodb+srv://admin:admin@mithunscluster.zivtunf.mongodb.net/MyContacts-backend?retryWrites=true&w=majority",
+    "ACCESS_TOKEN":"mithun123"
+  }
+  
+  
